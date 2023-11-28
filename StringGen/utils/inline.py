@@ -7,9 +7,9 @@ keyboard = InlineKeyboardMarkup(
     [
         [InlineKeyboardButton(text="ɢᴇɴᴇʀᴀᴛᴇ sᴇssɪᴏɴ", callback_data="gensession")],
         [
-            InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛ", url=SUPPORT_CHAT),
+            InlineKeyboardButton(text="ꜰɪʟᴍ ʜᴏʀᴏʀ", url=SUPPORT_CHAT),
             InlineKeyboardButton(
-                text="sᴏᴜʀᴄᴇ", url="https://telegra.ph/file/b95542fcd0150e1215da3.mp4"
+                text="ᴅʀᴀᴍᴀ ᴋᴏʀᴇᴀ", url="http://t.me/+8jgG1KZj3Mo1MDk1"
             ),
         ],
     ]
